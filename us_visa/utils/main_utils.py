@@ -107,4 +107,3 @@ def drop_columns(df: DataFrame, cols: list)-> DataFrame:
         raise USvisaException(e, sys) from e
     
 
-    
